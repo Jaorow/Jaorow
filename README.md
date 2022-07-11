@@ -1,7 +1,7 @@
 # JAMIE DUNWOODIE-ROWLEY
 
 
-<table>
+<table  BORDER=”0″>
 
 <tr>
 
