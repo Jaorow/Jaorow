@@ -1,6 +1,6 @@
 # JAMIE DUNWOODIE-ROWLEY
 
-
+<center>
 <table  BORDER=”0″>
 
 <tr>
@@ -25,7 +25,7 @@
 </td>
 </tr>
 </table>
-
+</center>
 
  <a href="https://github.com/jaorow/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaorow&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a>  
 <!---
