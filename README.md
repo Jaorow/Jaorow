@@ -20,7 +20,7 @@
 
 
 <a href="https://github.com/jaorow/github-readme-stats" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaorow&layout=compact&theme=radical&hide_border=true" /></a> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaorow&layout=compact&theme=radical&hide_border=true" /></a> 
 
 </td>
 </tr>
