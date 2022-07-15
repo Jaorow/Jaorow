@@ -50,7 +50,9 @@ this is where find me content starts...
 
 <!-- [<img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gnome-emblem-web.svg/100px-Gnome-emblem-web.svg.png" />][website] -->
 [<img align="left" alt=" | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter]
+
 [<img align="left" alt=" | LinkedIn" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />][linkedin]
+
 [<img align="left" alt=" | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
 
 [<img align="left" alt=" | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg" />][discord]
