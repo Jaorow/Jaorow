@@ -86,7 +86,7 @@ website when i have a good website (orthou there is a github website thingy so i
 
 [<img align="left" alt=" | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
 
-[<img align="left" alt=" | discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Discord_color_D.svg" />][discord]
+[<img align="left" alt=" | discord"  width="23px" src="img/discord2.svg" />][discord]
 
 
 
