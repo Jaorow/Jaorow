@@ -5,7 +5,7 @@
 <td>
 <pre>
 <br>
-🎓 Studying CompSci @ UOA 🎓
+🎓 Studying CompSci at UOA 🎓
 ❤️ Love Python and Web Dev ❤️
 <br>
 </pre>
