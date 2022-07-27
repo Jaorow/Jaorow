@@ -21,9 +21,9 @@
 </table>
 
 <table align="center">
-<td>
+<!-- <td>
  <a href="https://github.com/jaorow/github-readme-stats" ><img  src="https://github-readme-stats.vercel.app/api?username=jaorow&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a>  
-</td>
+</td> -->
  </table>
 
 <!---
@@ -60,7 +60,7 @@ website when i have a good website (orthou there is a github website thingy so i
 
 [<img align="left" alt=" | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
 
-[<img align="left" alt=" | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg" />][discord]
+[<img align="left" alt=" | discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Discord_color_D.svg" />][discord]
 
 
 
