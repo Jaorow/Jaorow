@@ -35,20 +35,30 @@
 
 <img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" /> 
 
-<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /> 
+<img align="left" alt="css" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /> 
 
-<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> 
+<img align="left" alt="js" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> 
 
-<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
+<img align="left" alt="c" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
 
-<img align="left" alt="html" width="17px" src="img/java.svg" /> 
+<img align="left" alt="java" width="17px" src="img/java.svg" /> 
 
-<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
+<img align="left" alt="react" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
 
-<!-- 
-<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
 
-<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />  -->
+<img align="left" alt="markdown" height = "20" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png" /> 
+
+<img align="left" alt="html" width="25px" src="img/ardwino.png" /> 
+
+<img align="left" alt="html" width="25px" src="img/rasp2.svg" /> 
+
+<img align="left" alt="html" width="25px" src="img/linux.png" /> 
+
+
+<img align="left" alt="html" height = "30" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" /> 
+
+<!-- put at end as there is a large left section to this immage -->
+<img align="left" alt="html" width="80px" src="img/netlify.png" /> 
 <br>
 <br>
 <br>
