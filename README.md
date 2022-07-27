@@ -28,7 +28,7 @@
 
 
 
-# TECH STACK
+## TECH STACK   💻
 
 
 <img align="left" alt="  Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" /> 
