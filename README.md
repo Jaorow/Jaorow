@@ -4,10 +4,10 @@
 <tr>
 <td>
 <pre>
-<br>============================
+<br>
 🎓 Studying CompSci @ UOA 🎓
-❤️ love Python and Web Dev ❤️
-<br>============================
+❤️ Love Python and Web Dev ❤️
+<br>
 </pre>
 </td>
 
