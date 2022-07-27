@@ -26,17 +26,33 @@
 </td>
  </table> -->
 
-<!---
-
-liked codes...
-
---->
-
-<!-- some languages i like are ...
-
-<code align="center"><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>---<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>---<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>---<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> -->
 
 
+# TECH STACK
+
+
+<img align="left" alt="  Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" /> 
+
+<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" /> 
+
+<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /> 
+
+<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> 
+
+<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
+
+<img align="left" alt="html" width="17px" src="img/java.svg" /> 
+
+<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
+
+<!-- 
+<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
+
+<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />  -->
+<br>
+<br>
+<br>
+<br>
 
 
 <!---
