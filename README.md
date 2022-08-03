@@ -41,7 +41,6 @@
 <img align="left" alt="linx" width="30px" height = "30" src="img/linux.png" /> 
 
 
-<img align="left" alt="html" height = "30" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" /> 
 
 <!-- put at end as there is a large left section to this immage -->
 <img align="left" alt="html" width="80px" src="img/netlify.png" /> 
