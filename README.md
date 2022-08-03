@@ -31,29 +31,29 @@
 ## TECH STACK   💻
 
 <div>
-<img align="left" alt="  Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" /> 
+<img align="left" alt="  Python" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" /> 
 
 
-<img align="left" alt="html" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" /> 
+<img align="left" alt="html" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" /> 
 
-<img align="left" alt="css" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /> 
+<img align="left" alt="css" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" /> 
 
-<img align="left" alt="js" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> 
+<img align="left" alt="js" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> 
 
-<img align="left" alt="c" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
+<img align="left" alt="c" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" /> 
 
-<img align="left" alt="java" width="16px" src="img/java.svg" /> 
+<img align="left" alt="java" width="30px" height = "30" src="img/java.svg" /> 
 
-<img align="left" alt="react" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
+<img align="left" alt="react" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> 
 
 
-<img align="left" alt="markdown" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png" /> 
+<img align="left" alt="markdown" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png" /> 
 
-<img align="left" alt="ardwino" width="25px" src="img/ardwino.png" /> 
+<img align="left" alt="ardwino" width="30px" height = "30" src="img/ardwino.png" /> 
 
-<img align="left" alt="raspbery-pi" width="22px" src="img/rasp2.svg" /> 
+<img align="left" alt="raspbery-pi" width="30px" height = "30" src="img/rasp2.svg" /> 
 
-<img align="left" alt="linx" width="25px" src="img/linux.png" /> 
+<img align="left" alt="linx" width="30px" height = "30" src="img/linux.png" /> 
 
 
 <img align="left" alt="html" height = "30" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" /> 
@@ -84,13 +84,13 @@ website when i have a good website (orthou there is a github website thingy so i
 
 [<img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gnome-emblem-web.svg/100px-Gnome-emblem-web.svg.png" />][website] -->
 
-[<img align="left" alt=" | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter]
+[<img align="left" alt=" | Twitter" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" />][twitter]
 
-[<img align="left" alt=" | LinkedIn" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt=" | LinkedIn" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
-[<img align="left" alt=" | Instagram" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
+[<img align="left" alt=" | Instagram" width="30px" height = "30" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />][instagram]
 
-[<img align="left" alt=" | discord"  width="23px" src="img/discord2.svg" />][discord]
+[<img align="left" alt=" | discord" width="30px" height = "30" src="img/discord2.svg" />][discord]
 
 
 
