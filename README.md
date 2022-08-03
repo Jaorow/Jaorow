@@ -1,24 +1,8 @@
+
 # JAMIE DUNWOODIE-ROWLEY
 
-<table align="center">
-<tr>
-<td>
-<pre>
-<br>
-🎓 Studying CompSci at UOA 🎓
-❤️ Love Python and Web Dev ❤️
-<br>
-</pre>
-</td>
 
-<td>
 
-<a href="https://github.com/jaorow/github-readme-stats" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaorow&layout=compact&theme=radical&hide_border=true" /></a> 
-
-</td>
-</tr>
-</table>
 
 <!-- <table align="center">
 <td>
@@ -26,7 +10,9 @@
 </td>
  </table> -->
 
-
+<a href="https://github.com/jaorow/github-readme-stats" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaorow&layout=compact&theme=radical&hide_border=true" /></a> 
+</div>
 
 ## TECH STACK   💻
 
