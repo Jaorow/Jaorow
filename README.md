@@ -1,4 +1,3 @@
-
 # JAMIE DUNWOODIE-ROWLEY
 
 
@@ -9,7 +8,7 @@
  <a href="https://github.com/jaorow/github-readme-stats" ><img  src="https://github-readme-stats.vercel.app/api?username=jaorow&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a>  
 </td>
  </table> -->
-
+<div align="center">
 <a href="https://github.com/jaorow/github-readme-stats" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaorow&layout=compact&theme=radical&hide_border=true" /></a> 
 </div>
