@@ -80,4 +80,4 @@ website when i have a good website (orthou there is a github website thingy so i
 
 
 
-[![website Status](https://api.netlify.com/api/v1/badges/600060d9-e60e-424f-b460-db16ae5f4719/deploy-status)](https://app.netlify.com/sites/dunwoodie-rowely/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89a31867-a7a7-4980-96fe-906a260a6085/deploy-status)](https://app.netlify.com/sites/jaorow/deploys)
