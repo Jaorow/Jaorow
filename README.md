@@ -1,7 +1,7 @@
 # JAMIE DUNWOODIE-ROWLEY
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaorow&theme=onedark&title=Commit,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaorow&hide=jupyter%20notebook&show_icons=true&theme=transparent&locale=en&layout=donut-vertical" alt="jaorow" /></p>
+
 
 ## TECH STACK   💻
 
@@ -9,10 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,azure,dotnet,docker,raspberrypi,postman,md,linux)](https://skillicons.dev)
 
-<br>
-<br>
-<br>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaorow&hide=jupyter%20notebook&show_icons=true&theme=transparent&locale=en&layout=compact" alt="jaorow" /></p>
 
 
 <!---
