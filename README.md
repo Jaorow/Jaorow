@@ -1,6 +1,8 @@
 # JAMIE DUNWOODIE-ROWLEY
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaorow&theme=onedark&title=Commit,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaorow&show_icons=true&locale=en&layout=compact" alt="jaorow" /></p>
+
 ## TECH STACK   💻
 
 <div>
