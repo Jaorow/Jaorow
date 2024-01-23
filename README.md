@@ -1,6 +1,6 @@
 # JAMIE DUNWOODIE-ROWLEY
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaorow&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## TECH STACK   💻
 
 <div>
