@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,azure,dotnet,docker,raspberrypi,postman,md,linux)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaorow&hide=jupyter%20notebook&show_icons=true&theme=transparent&locale=en&layout=compact" alt="jaorow" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaorow&hide=jupyter%20notebook&show_icons=true&theme=transparent&locale=en&layout=compact&exclude_repo=stats220" alt="jaorow" /></p>
 
 
 <!---
