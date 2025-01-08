@@ -64,3 +64,10 @@ website when i have a good website (orthou there is a github website thingy so i
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/89a31867-a7a7-4980-96fe-906a260a6085/deploy-status)](https://app.netlify.com/sites/jaorow/deploys)
+
+
+
+<br/>
+<br/>
+<br/>
+↓ Dont mind these pined bad boys, there all quite out dated as all recent projects must be private. ↓
